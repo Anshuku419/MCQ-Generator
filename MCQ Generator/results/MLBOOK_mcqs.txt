@@ -1,0 +1,81 @@
+Okay, here are 10 Multiple Choice Questions (MCQs) based on the provided text.
+
+## MCQ 1
+Question: According to the text, what is machine learning usually associated with?
+A) Changes in systems performing tasks associated with physics
+B) Changes in systems performing tasks associated with artificial intelligence (AI)
+C) Changes in systems performing tasks associated with economics
+D) Changes in systems performing tasks associated with biology
+Correct Answer: B)
+
+## MCQ 2
+Question: According to the text, which of the following is NOT a reason why machine learning is important?
+A) Some tasks cannot be defined well except by example
+B) Machine learning can help us understand how animals and humans learn
+C) Human designers always produce machines that work perfectly as desired
+D) Machine learning methods can often be used to extract relationships hidden in large piles of data
+Correct Answer: C)
+
+## MCQ 3
+Question: Which of the following disciplines is NOT listed as a "wellspring" of Machine Learning in the text?
+A) Statistics
+B) Brain Models
+C) Quantum Physics
+D) Artificial Intelligence
+Correct Answer: C)
+
+## MCQ 4
+Question: According to the text, what are the two major settings in which we wish to learn a function?
+A) Reinforcement learning and evolutionary learning
+B) Supervised learning and unsupervised learning
+C) Batch learning and incremental learning
+D) Online learning and offline learning
+Correct Answer: B)
+
+## MCQ 5
+Question: What is a key difference between speed-up learning and inductive learning, according to the text?
+A) Speed-up learning creates genuinely new functions, while inductive learning finds equivalent, computationally efficient ones.
+B) Speed-up learning creates genuinely new functions, while inductive learning improves the accuracy of the existing ones.
+C) Speed-up learning changes an existing function into an equivalent, computationally more efficient one, while inductive learning creates genuinely new functions.
+D) Speed-up learning is always batch-based, while inductive learning is always incremental.
+Correct Answer: C)
+
+## MCQ 6
+Question: According to the text, what is the purpose of the testing set in supervised learning?
+A) To train the induced function.
+B) To evaluate the result of learning or how well the hypothesized function can generalize.
+C) To introduce noise into the data.
+D) To speed up the learning process.
+Correct Answer: B)
+
+## MCQ 7
+Question: According to the text, what is bias in the context of machine learning?
+A) A preference for complex models over simple ones.
+B) A random selection of hypotheses from the entire set of possible functions.
+C) A priori information or constraints used to limit the set of hypotheses considered.
+D) The tendency of a learning algorithm to make mistakes on the training data.
+Correct Answer: C)
+
+## MCQ 8
+Question: According to the text, what are the two main varieties of bias that machine learning researchers have identified?
+A) Statistical bias and psychological bias
+B) Absolute bias and preference bias
+C) Inductive bias and deductive bias
+D) Supervised bias and unsupervised bias
+Correct Answer: B)
+
+## MCQ 9
+Question: Who is credited in the text with the phrase "non sunt multiplicanda entia praeter necessitatem", relating to Occam's razor?
+A) Nils J. Nilsson
+B) Nils J. Getoor
+C) William of Occam
+D) Pat Langley
+Correct Answer: C)
+
+## MCQ 10
+Question: Which of the following is NOT mentioned as a type of computational structure to be learned in the text?
+A) Functions
+B) Logic programs and rule sets
+C) Finite-state machines
+D) Quantum algorithms
+Correct Answer: D)

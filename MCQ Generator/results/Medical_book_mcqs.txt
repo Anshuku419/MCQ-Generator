@@ -1,0 +1,423 @@
+Okay, here are 50 multiple-choice questions (MCQs) based on the provided text from "Gale Encyclopedia of Medicine, Second Edition":
+    
+    ## MCQ
+    Question: Which of the following imaging techniques does NOT employ ionizing radiation?
+    A) Computed Tomography (CT) scan
+    B) X-ray
+    C) Abdominal Ultrasound
+    D) Fluoroscopy
+    Correct Answer: C) Abdominal Ultrasound
+    
+    ## MCQ
+    Question: What is the approximate frequency range typically used in abdominal ultrasound imaging?
+    A) 20-50 kHz
+    B) 1-10 kHz
+    C) 2-5 MHz
+    D) 10-20 MHz
+    Correct Answer: C) 2-5 MHz
+    
+    ## MCQ
+    Question: A bulging weak spot in the abdominal aorta is best described as:
+    A) Calculus
+    B) Pancreatitis
+    C) Abdominal aortic aneurysm
+    D) Cirrhosis
+    Correct Answer: C) Abdominal aortic aneurysm
+    
+    ## MCQ
+    Question: In ultrasound technology, the ________ both produces sound waves and receives reflected echoes.
+    A) Computer
+    B) Analyzer
+    C) Transducer
+    D) Receiver
+    Correct Answer: C) Transducer
+    
+    ## MCQ
+    Question: After a surgical repair, which of the following is considered a potential risk?
+    A) Abdominal wall defects
+    B) Viscera
+    C) Accessory organ
+    D) Increased pressure in the stretched abdomen
+    Correct Answer: D) Increased pressure in the stretched abdomen
+    
+    ## MCQ
+    Question: What is the most common germ involved in carbuncles and boils?
+    A) Lactobacillus acidophilus
+    B) Enterobacteria
+    C) Klebsiella pneumoniae
+    D) Staphylococcus aureus
+    Correct Answer: D) Staphylococcus aureus
+    
+    ## MCQ
+    Question: What does D&X stand for?
+    A) Delivery and Extraction
+    B) Dilation and Examination
+    C) Dilation and Extraction
+    D) Diagnosis and Exclusion
+    Correct Answer: C) Dilation and Extraction
+    
+    ## MCQ
+    Question: What medical procedure is used to prepare the cervix for a D&X?
+    A) C-section
+    B) Laminaria
+    C) Chemotherapy
+    D) Biopsy
+    Correct Answer: B) Laminaria
+    
+    ## MCQ
+    Question: How does Plan B reduce the risk of pregnancy?
+    A) By killing sperm
+    B) By physically blocking sperm from reaching the egg
+    C) By blocking implantation of a fertilized egg
+    D) By stimulating uterine contractions
+    Correct Answer: C) By blocking implantation of a fertilized egg
+    
+    ## MCQ
+    Question: The term "selective reduction" is typically used when referring to which type of situation?
+    A) A planned abortion due to fetal abnormalities
+    B) A spontanous miscarriage
+    C) Reduction of a multi-fetal pregnancy
+    D) An ectopic pregnancy
+    Correct Answer: C) Reduction of a multi-fetal pregnancy
+    
+    ## MCQ
+    Question: What percentage of women who undergo a selective reduction miscarry one or more of the remaining fetuses?
+    A) 1-2%
+    B) 4-5%
+    C) 10-12%
+    D) 20-25%
+    Correct Answer: B) 4-5%
+    
+    ## MCQ
+    Question: The gestational age is used in determing the stage of what?
+    A) Selective reduction
+    B) First-trimester abortion
+    C) Post-abortion genetic counseling
+    D) IVF treatments
+    Correct Answer: B) First-trimester abortion
+    
+    ## MCQ
+    Question: What is one of the complications resulting from abortions?
+    A) High-risk for future pregnancy
+    B) The fetus is born with genetic impairment
+    C) A tear in the cervix
+    D) Viable twins
+    Correct Answer: C) A tear in the cervix
+    
+    ## MCQ
+    Question: What is NOT a cause of jaundice?
+    A) Cancer
+    B) Gall stones
+    C) Holostic Medicine
+    D) Blocked liver
+    Correct Answer: C) Holostic Medicine
+    
+    ## MCQ
+    Question: What does pus primarily consist of?
+    A) Hormones
+    B) Bacteria
+    C) Minerals
+    D) Recycled enzymes
+    Correct Answer: B) Bacteria
+    
+    ## MCQ
+    Question: Which of the following is a potential medical application of ultrasound technology?
+    A) Stimulating bone growth
+    B) Identifying malignant tumors
+    C) Repairing torn ligaments
+    D) Curing gallstones
+    Correct Answer: B) Identifying malignant tumors
+    
+    ## MCQ
+    Question: The value of ultrasound imaging depends on what factors?
+    A) Quality of equipment and skill of operator
+    B) Patient's body type
+    C) Amount of bowel gas
+    D) All of the above
+    Correct Answer: D) All of the above
+    
+    ## MCQ
+    Question: Physical and sexual violence often occur at the same time. What is the purpose of physical and sexual violence?
+    A) Hurt, dominate, and debase the victim
+    B) To become sexually aroused
+    C) For the perpetrator to have someone to control
+    D) All of the above
+    Correct Answer: A) Hurt, dominate, and debase the victim
+    
+    ## MCQ
+    Question: A major effect of multi-fetal pregnancy is:
+    A) It is medically unnecessary to do selective reduction
+    B) Selective reduction should not occur because it violates ethical concerns
+    C) An increased rate of complications during pregnancy
+    D) The fetus born is healthier
+    Correct Answer: C) An increased rate of complications during pregnancy
+    
+    ## MCQ
+    Question: People who are Rh negative should be given ________ after an abortion to prevent blood incompatibilities in future pregnancies.
+    A) Antibiotics
+    B) Human Rh immune globulin (RhoGAM)
+    C) Hormones
+    D) All of the above
+    Correct Answer: B) Human Rh immune globulin (RhoGAM)
+    
+    ## MCQ
+    Question: Which of the following is NOT a step one can take to minimize acne flare-ups?
+    A) Avoid abrasive cleansers
+    B) Use noncomedogenic makeup
+    C) Use hair spray
+    D) Shampoo often
+    Correct Answer: C) Use hair spray
+    
+    ## MCQ
+    Question: Which of the following is a typical symptom of second trimester abortions?
+    A) Contractions
+    B) Bleeding
+    C) Cervix contractions
+    D) Endometriosis
+    Correct Answer: A) Contractions
+    
+    ## MCQ
+    Question: An acoustic neuroma that arises from one nerve is described as:
+    A) Malignant
+    B) Bilateral
+    C) Unilateral
+    D) Benign
+    Correct Answer: C) Unilateral
+    
+    ## MCQ
+    Question: Which hereditary condition is associated with an increased risk of bilateral acoustic neuromas?
+    A) Osteomyelitis
+    B) Neurofibromatosis type 2 (NF2)
+    C) Septicemia
+    D) Aneurysm
+    Correct Answer: B) Neurofibromatosis type 2 (NF2)
+    
+    ## MCQ
+    Question: What are possible symptoms associated with a large acoustic neuroma that impacts the brain stem?
+    A) Headaches
+    B) Walking difficulties
+    C) Involuntary shaking movements of the muscles
+    D) All of the above
+    Correct Answer: D) All of the above
+    
+    ## MCQ
+    Question: Which is NOT a main clinical symptom for acrocyanosis?
+    A) Persistently blue hands
+    B) Persistently blue feet
+    C) Persistently sweaty hands
+    D) Pain
+    Correct Answer: D) Pain
+    
+    ## MCQ
+    Question: What causes D&X fetal death?
+    A) Cervix dilation
+    B) Collapse of the fetal head
+    C) Suction
+    D) Puncture of the fetal head
+    Correct Answer: B) Collapse of the fetal head
+    
+    ## MCQ
+    Question: During an abortion, which stage of pregnancy does effectiveness of medical abortions decreases?
+    A) In the second trimester
+    B) At 14-weeks into the last cycle
+    C) After the seventh week
+    D) After the last observation period
+    Correct Answer: C) After the seventh week
+    
+    ## MCQ
+    Question: What is a symptom for an individual with multi-fetal pregnancy undergoing a selective abortion?
+    A) It is typically a safe procedure
+    B) The individual must be in stable emotional standing
+    C) Continued counseling should be sought
+    D) It is only a minor surgery, not invasive
+    Correct Answer: C) Continued counseling should be sought
+    
+    ## MCQ
+    Question: People with achondroplasia have a very high risk of serious and repeated ______ which can result in hearing loss.
+    A) Skin lesions
+    B) Middle ear infections
+    C) Spinal canal
+    D) Broken limbs
+    Correct Answer: B) Middle ear infections
+    
+    ## MCQ
+    Question: True or False: People with achondroplasia have reproductive disabilities.
+    A) True
+    B) False
+    Correct Answer: B) False
+    
+    ## MCQ
+    Question: What does the term "achalasia" literally mean?
+    A) Motionless
+    B) Paralysis
+    C) Failure to relax
+    D) Progressive worsening
+    Correct Answer: C) Failure to relax
+    
+    ## MCQ
+    Question: What part of the internal female anatomy carries eggs from the ovaries to the uterus?
+    A) Small intestine
+    B) Fallopian tubes
+    C) Pancreas
+    D) Liver
+    Correct Answer: B) Fallopian tubes
+    
+    ## MCQ
+    Question: What does holistic medicine emphasize?
+    A) Maintaining good health
+    B) Eliminating the disease
+    C) Connection between mind and body
+    D) Both A and C
+    Correct Answer: D) Both A and C
+    
+    ## MCQ
+    Question: The two different medications used to bring about medical abortions work to end a pregnancy. What are they?
+    A) laminaria and saline
+    B) Progesterone and saline
+    C) mifepristone and methotrexate
+    D) misoprostol and methotrexate
+    Correct Answer: D) misoprostol and methotrexate
+    
+    ## MCQ
+    Question: What is the name of the product when a women uses birth control pills for emergency contraception?
+    A) Tylenol
+    B) Advil
+    C) A brand name birth control pill
+    D) Prenven
+    Correct Answer: D) Prenven
+    
+    ## MCQ
+    Question: What is the estimated cost of basic ultrasound equipment?
+    A) $150,000
+    B) $500
+    C) $50,000
+    D) $5,000
+    Correct Answer: D) $5,000
+    
+    ## MCQ
+    Question: What is the mechanical nature of ultrasonic waves?
+    A) Shock waves
+    B) Radiation waves
+    C) Linear waves
+    D) Stationary waves
+    Correct Answer: A) Shock waves
+    
+    ## MCQ
+    Question: What is the term used to describe the inability to recognize pitch?
+    A) Hypertension
+    B) Aphasia
+    C) Frequency
+    D) Morphology
+    Correct Answer: C) Frequency
+    
+    ## MCQ
+    Question: What is the term that refers to the size, shape and structure of a given organ?
+    A) Morphology
+    B) Size ratio
+    C) Frequency
+    D) Design
+    Correct Answer: A) Morphology
+    
+    ## MCQ
+    Question: All of the following are associated with selective abortion EXCEPT:
+    A) It is used for health concerns
+    B) It is used to control a gender preference
+    C) It occurs far less than non-selective reduction
+    D) It is commonly associated with muti-fetal pregnancy
+    Correct Answer: C) It occurs far less than non-selective reduction
+    
+    ## MCQ
+    Question: Which is a function of the sebaceous gland?
+    A) To absorb oil
+    B) To produce oil
+    C) To connect pores
+    D) To cause tissue damage
+    Correct Answer: B) To produce oil
+    
+    ## MCQ
+    Question: What is NOT an advantage of a medical abortion?
+    A) Administered through drugs
+    B) No surgical tools are used
+    C) Required anasthesia
+    D) Resembles a natural miscarriage
+    Correct Answer: C) Required anasthesia
+    
+    ## MCQ
+    Question: Vacuum aspiration is also called what?
+    A) D&E
+    B) RU-486
+    C) The morning after pill
+    D) Selective reduction
+    Correct Answer: A) D&E
+    
+    ## MCQ
+    Question: Therapeutic value of ultrasound lies in their _____.
+    A) Chemical nature
+    B) Color
+    C) Mechanical nature
+    D) Soft tissue
+    Correct Answer: C) Mechanical nature
+    
+    ## MCQ
+    Question: Which birth defect is described as follows: the stomach and intestines begin development outside the baby's abdomen, and only later does the abdominal wall enclose them.
+    A) Partial birth abortion
+    B) Selective abortion
+    C) Abdominal wall defects
+    D) Spontaneous abortion
+    Correct Answer: C) Abdominal wall defects
+    
+    ## MCQ
+    Question: In cases of Abdominal Wall Defects, the surgical procedure is not complicated unless there are which of the following?
+    A) Organs misplaced
+    B) Other anomalies
+    C) Extra weight
+    D) A large hernia
+    Correct Answer: B) Other anomalies
+    
+    ## MCQ
+    Question: Which treatment for achalasia helps to provide relief for about two-thirds of patients for as long as two years?
+    A) Holistic
+    B) Holistic medicine
+    C) Drug therapy
+    D) Surgical therapy
+    Correct Answer: C) Drug therapy
+    
+    ## MCQ
+    Question: In an A-mode ultrasound, what happens with the echoes?
+    A) A single transducer scans a line through the body with the echoes plotted on screen as a function of depth.
+    B) A linear array of transducers simultaneously scans a plane through the body that can be viewed as a two-dimensional image on screen.
+    C) A rapid sequence of B-mode scans whose images follow each other in sequence on screen enables doctors to see and measure range of motion, as the organ boundaries that produce reflections move relative to the probe.
+    D) Doppler ultrasonography includes the capability of accurately measuring velocities of moving material, such as blood in arteries and veins.
+    Correct Answer: A) A single transducer scans a line through the body with the echoes plotted on screen as a function of depth.
+    
+    ## MCQ
+    Question: What does it mean to refer to something as 'Pyogenic'?
+    A) capable of generating pus
+    B) is the opposite of malignant
+    C) A chronic liver disease
+    D) a hard concretion in the body
+    Correct Answer: A) capable of generating pus
+    
+    ## MCQ
+    Question: What is the study of the form of an organ called?
+    A) Holistics
+    B) Frequency
+    C) Morphology
+    D) Design
+    Correct Answer: A) Morphology
+    
+    ## MCQ
+    Question: What medical condition means growing worse and resisiting treatment?
+    A) Malignant
+    B) Benign
+    C) Chronic
+    D) Morbid
+    Correct Answer: A) Malignant
+    
+    ## MCQ
+    Question: What percent of women have at least one abortion by the time they reach age 45?
+    A) almost 50%
+    B) almost 30%
+    C) almost 25%
+    D) almost 20%
+    Correct Answer: A) almost 50%

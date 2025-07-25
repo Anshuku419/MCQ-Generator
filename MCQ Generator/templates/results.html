@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Generated MCQs</title>
+    <style>
+        body { font-family: Arial; padding: 20px; background: #f9f9f9; }
+        .mcq { margin-bottom: 20px; background: #e1f5fe; padding: 15px; border-radius: 8px; }
+        .question { font-weight: bold; color: #0d47a1; }
+        .option { margin-left: 10px; }
+        .answer { color: green; font-weight: bold; }
+        a.button {
+            display: inline-block;
+            margin: 10px 5px;
+            padding: 10px 15px;
+            background: #007bff;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        a.button:hover { background: #0056b3; }
+    </style>
+</head>
+<body>
+    <h1>Generated MCQs</h1>
+
+    {% for mcq in mcqs %}
+        <div class="mcq">
+            <div class="question">{{ loop.index }}. {{ mcq.question }}</div>
+            <div class="option">A) {{ mcq.options.A }}</div>
+            <div class="option">B) {{ mcq.options.B }}</div>
+            <div class="option">C) {{ mcq.options.C }}</div>
+            <div class="option">D) {{ mcq.options.D }}</div>
+            <div class="answer">Correct Answer: {{ mcq.answer }}</div>
+        </div>
+    {% endfor %}
+
+    <a class="button" href="/download/{{ txt_filename }}">Download as TXT</a>
+    <a class="button" href="/download/{{ pdf_filename }}">Download as PDF</a>
+</body>
+</html>
